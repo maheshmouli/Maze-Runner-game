@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maze runner", "Assembly-CSharp-firstpass.csproj", "{06718D9B-FED7-A5BB-258B-70CA0C337732}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maze runner", "Assembly-CSharp.csproj", "{A4B18471-55FF-2294-A03C-4093124BA994}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maze runner", "Assembly-CSharp-Editor-firstpass.csproj", "{8C3B5DE3-4B39-9C6F-74F4-F4F3CDA26CDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06718D9B-FED7-A5BB-258B-70CA0C337732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06718D9B-FED7-A5BB-258B-70CA0C337732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06718D9B-FED7-A5BB-258B-70CA0C337732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06718D9B-FED7-A5BB-258B-70CA0C337732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4B18471-55FF-2294-A03C-4093124BA994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4B18471-55FF-2294-A03C-4093124BA994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4B18471-55FF-2294-A03C-4093124BA994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4B18471-55FF-2294-A03C-4093124BA994}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C3B5DE3-4B39-9C6F-74F4-F4F3CDA26CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3B5DE3-4B39-9C6F-74F4-F4F3CDA26CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3B5DE3-4B39-9C6F-74F4-F4F3CDA26CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3B5DE3-4B39-9C6F-74F4-F4F3CDA26CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
